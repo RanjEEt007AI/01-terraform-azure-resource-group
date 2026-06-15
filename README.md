@@ -1,4 +1,4 @@
-# Terraform Azure Resource Group Creating with simple code
+# Terraform Azure Resource Group Create using simple code
 
 ## Overview
 
